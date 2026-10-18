@@ -44,6 +44,16 @@ export default function AboutPage() {
           </div>
         </div>
       </section>
+
+      <footer className="site-footer">
+        <p className="footer-line footer-line-en">
+          A{" "}
+          <a className="footer-credit-link" href="https://superfresh.la" rel="noreferrer" target="_blank">
+            Superfresh
+          </a>{" "}
+          project.
+        </p>
+      </footer>
     </main>
   );
 }
