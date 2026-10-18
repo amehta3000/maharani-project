@@ -473,6 +473,12 @@ img {
   font-size: 1rem;
 }
 
+.footer-credit-link {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
 .about-story {
   margin-top: 22px;
 }
